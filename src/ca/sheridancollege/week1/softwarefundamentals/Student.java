@@ -7,9 +7,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
  *
- * @author asidhu  May 30 2020
- *@modified by Albert Einstein
- *More editing done on May 30 2020
+ * @author asidhu  
  */
 public class Student {
     
